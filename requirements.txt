@@ -1,0 +1,6 @@
+textblob
+transformers
+speechrecognition
+pyttsx3
+requests
+
